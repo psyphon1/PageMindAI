@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Node/Chrome
+node_modules/
+.DS_Store
+
+# Project specific
+universal-rag.zip
+uv.lock
+
+# IDEs
+.vscode/
+.idea/
