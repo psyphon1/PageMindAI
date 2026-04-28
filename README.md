@@ -96,6 +96,24 @@ universal-rag/
 
 ---
 
+## 🌐 Repository & Deployment
+
+- **Repository**: [github.com/psyphon1/PageMindAI](https://github.com/psyphon1/PageMindAI)
+- **Primary Branch**: `main` (unified single branch for production & development)
+- **Latest Commit**: Branch consolidation complete - master merged into main
+- **Status**: ✅ Active Development & Maintenance
+
+---
+
+## 📋 Recent Updates
+
+- ✅ Initial project structure committed and pushed
+- ✅ Unified repository to single `main` branch (removed `master`)
+- ✅ Conflict resolution completed with latest updates integrated
+- ✅ Ready for deployment and contributions
+
+---
+
 ## 👨‍💻 Author
 
 Developed by **Chinmay Duse** (firefox technologies).
