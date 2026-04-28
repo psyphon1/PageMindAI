@@ -120,10 +120,22 @@ class WebsiteRAG:
         if not self.qa_chain:
             raise RuntimeError("Content not loaded yet")
         
+        from logger_utils import TerminalLoggerHandler
+        
+        # Log history for clarity
+        if self.chat_history:
+            print("\n" + "="*50)
+            print("📜 [CONVERSATION HISTORY]")
+            print("="*50)
+            for q, a in self.chat_history:
+                print(f"User: {q}")
+                print(f"AI:   {a[:100]}...") # Truncate for brevity
+            print("="*50 + "\n")
+
         result = self.qa_chain.invoke({
             "question": question,
             "chat_history": self.chat_history
-        })
+        }, config={"callbacks": [TerminalLoggerHandler()]})
         
         answer = result["answer"]
         # Update history

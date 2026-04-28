@@ -99,7 +99,7 @@ universal-rag/
 ## 👨‍💻 Author
 
 Developed by **Chinmay Duse** (firefox technologies).
-Find me on [LinkedIn](https://www.linkedin.com/in/chinmayduse/) or [GitHub](https://github.com/psyphon1).
+Find me on [LinkedIn](https://www.linkedin.com/in/chinmay-duse/) or [GitHub](https://github.com/psyphon1).
 
 ---
 *If you find this project useful, please consider giving it a ⭐!*
