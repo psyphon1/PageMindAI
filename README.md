@@ -5,6 +5,8 @@
 
 ---
 
+## Link to working Video/Linkedin Post : https://www.linkedin.com/posts/chinmayduse_ai-rag-llama3-ugcPost-7453374761352675328-ZCRC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0vcQIB6eaElSQ4pBETLIrRINK2Q0ddzYo
+
 ## 🌟 Features
 
 - 🎥 **YouTube Intelligence**: Auto-extracts transcripts, descriptions, and comments. No more watching 30-minute videos for a 10-second answer.
